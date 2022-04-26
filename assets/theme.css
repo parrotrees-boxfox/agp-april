@@ -13869,4 +13869,78 @@ shopify-payment-terms {
   .value-picker--auto {
     min-width: 0;
   }
+  /**
+ * --------------------------------------------------------------------
+ * CUSTOM COLOURS FOR HEADER CONTENT
+ * --------------------------------------------------------------------
+ */ 
+  }
+  .utils-sortby {display: none;
+  }
+  .mega-menu {
+    background: #0492C2 !important;
+  }
+  .nav-bar::after {
+    background: #0492C2 !important;
+  }
+  .nav-bar__item {
+    background: #0492C2 !important;
+  }
+  .nav-bar__linklist {
+    background: #0492C2 !important;
+  }
+  .nav-bar {ba
+    ckground: #0492C2 !important;
+  }
+  .nav-bar__inner {
+    background: #0492C2 !important;
+  }
+  .search-bar__input {
+    background: #ADD9E8 !important;
+  }
+  .nav-bar-bar::after {
+    background: #0492C2 !important;
+  }
+  .shop-button:background {
+    background: #03C04A !important;
+  }
+  .continue-shopping {
+    background: #03C04A !important;
+  }
+  .shop-button:hover {
+    background: #0492C2 !important;
+  }
+  .continue-shopping:hover {
+    background: #0492C2 !important;
+  } 
+ 
+/**
+ * --------------------------------------------------------------------
+ * RATING tags removed
+ * --------------------------------------------------------------------
+ */
+}	.ruk_rating_snippet  {
+  display: none !important;
 }
+.ruk-icon-percentage-star--100  {
+  display: none !important; 
+}
+.ruk-rating-snippet-count  {
+  display: none !important; 
+}
+.ruk-icon-percentage-star--75   {
+  display: none !important;   
+}
+.ruk-icon-percentage-star--25  {
+  display: none !important;   
+}
+.product-item__reviews-badge .link .pk-review-link  {
+  display: none !important;   
+}
+ .ruk-icon-percentage-star--0  {
+  display: none !important;   
+ }
+ .ruk-icon-percentage-star--50{
+  display: none !important;  
+}
+  
