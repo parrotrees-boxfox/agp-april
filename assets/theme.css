@@ -13870,3 +13870,44 @@ shopify-payment-terms {
     min-width: 0;
   }
 }
+/**
+ * --------------------------------------------------------------------
+ * RATING tags removed
+ * --------------------------------------------------------------------
+ */
+}	.ruk_rating_snippet  {
+display: none !important;
+}
+
+.ruk-icon-percentage-star--100  {
+display: none !important; 
+
+}
+	.ruk-rating-snippet-count  {
+display: none !important; 
+
+}
+
+.ruk-icon-percentage-star--75   {
+display: none !important;   
+
+  }
+
+  .ruk-icon-percentage-star--25  {
+display: none !important;   
+
+  }
+
+ .product-item__reviews-badge .link .pk-review-link  {
+   display: none !important;   
+
+ }
+   .ruk-icon-percentage-star--0  {
+     display: none !important;   
+
+  }
+  
+.ruk-icon-percentage-star--50{
+     display: none !important;  
+}
+  
